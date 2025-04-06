@@ -1,2 +1,2 @@
 # Spotify_clone_
-I have created Spotify UI clone by using HTML5 , CSS3.
+I've create Spotify UI clone through HTML5 and CSS3.
